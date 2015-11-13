@@ -1,7 +1,7 @@
 iNaturalist Observation Streaks
 ===============================
 
-Some [iNaturalist](http://www.inaturalist.org) users use the site regularly. Like, really regularly. Here I'm visualizing different content types from the iNat database by users with more than 10,000 records using the excellent [EventDrops](https://github.com/marmelab/EventDrops) visualization for [D3](d3js.org).
+Some [iNaturalist](http://www.inaturalist.org) users use the site regularly. Like, really regularly. Here I'm visualizing different content types from the iNat database by users with more than 10,000 records using the excellent [EventDrops](https://github.com/marmelab/EventDrops) visualization for [D3](http://d3js.org).
 
 For my own future reference, these data files were exported from the iNat database like this:
 
